@@ -1,4 +1,4 @@
-# Crop Recommendation Web App with AI and VisaulCrossing API: An application for Crop Recommendation using MATLAB
+# Crop Recommendation App with AI and VisaulCrossing API: An application for Crop Recommendation using MATLAB
 
 ## Table of Contents
 * [Introduction](#introduction)
