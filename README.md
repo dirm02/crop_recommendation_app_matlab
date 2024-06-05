@@ -32,7 +32,7 @@ You can recommend the crop by running `main.mlapp` in the `app` folder using the
 ![preview](img/result.png)
 
 ## Contact
-I hope to work with you. If you have any projects, you can contact me via Skype ID [live:.cid.b8144cf89d38b550]. I can help you in many areas including software development, web development and simulation. Thanks for your attention.
+I hope to work with you. If you have any projects, you can contact me via github email. I can help you in many areas including software development, web development and simulation. Thanks for your attention.
 
 ## License
 [GNU GPL](LICENSE.txt)
